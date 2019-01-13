@@ -1,4 +1,17 @@
 # Modai
+## 2018 Hanium Contest submissions
+## Project Name: Modia
+## Warn) Only Andriod Application Part (if you want to use this system, you must build DB, Web Server and PHP page)
+## Communication) Use HTTP Communication
+## It has basic functions such as managing members and viewing logs.
+
+Function
+---
+1. Membership
+2. Login
+3. Ability to send notification messages in a batch from server to server
+4. Check Log
+
 ## 2018 한이음 공모전 출품작
 ## 프로젝트 명: 모다이
 ## 주의) 어플리케이션 부분만 있습니다.(DB제작, 웹 페이지 제작 필요)
